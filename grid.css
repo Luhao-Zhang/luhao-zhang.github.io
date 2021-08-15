@@ -3,7 +3,7 @@
 body {
     font-family: 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
     margin: 0 auto;
-    background-color: antiquewhite;
+    background-color: #f4eee6;
     color: #333;
 /*    background-image: url("/users/jcyang/assets/images/background.jpg");*/
     background-position: center center;
@@ -189,7 +189,7 @@ input {
 /* Navigation */
 
 nav {
-    background-color: antiquewhite;
+    background-color: #f4eee6;
 }
 
 #nav-container {
@@ -242,7 +242,7 @@ nav div .dropdown {
     position: absolute;
     z-index: 1;
     text-align: center;
-    background-color: antiquewhite;
+    background-color: #f4eee6;
     justify-content: center;
     display: none;
 }
@@ -372,7 +372,7 @@ nav div .dropdown a.dropdown-last {
 /* Footer */
 
 footer {
-    background-color: antiquewhite;
+    background-color: #f4eee6;
 }
 
 #logo {
@@ -487,7 +487,7 @@ pre {
     height: 10vh;
     position: relative;
     text-align: center;
-    color: antiquewhite;
+    color: #f4eee6;
     display:table;
  }
 
@@ -562,7 +562,7 @@ pre {
   margin: 0 10px;
   padding-top: 1.3em;
 /*  text-align: center;*/
-  color: antiquewhite;
+  color: #f4eee6;
   font-size: 0.4em;
 }
 
@@ -588,13 +588,16 @@ pre {
     font-size: 1.7em;
 }
 
+.social a i span {
+    font-family: 'Roboto', 'Helvetica', 'Arial', 'Sans-Serif';
+}
 
 /* 04. Icon Font
  * =================================================================== */
 
  .lnr {
     font-size: 4em !important;
-    color:antiquewhite;
+    color:#f4eee6;
  }
 
 /* 05. Section Styles
@@ -621,7 +624,7 @@ section {
 
 .section-colour {
     background-color: #1abc9c;
-    color: antiquewhite;
+    color: #f4eee6;
 }
 
 .section-colour p {
@@ -637,11 +640,11 @@ section {
 }
 
 .section-colour {
-    border: antiquewhite;
+    border: #f4eee6;
 }
 
 .section-colour hr {
-    border-top: 5px solid antiquewhite;
+    border-top: 5px solid #f4eee6;
  }
 
 /* Media Queries
