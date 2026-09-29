@@ -99,6 +99,10 @@ p {
 /*    margin-left: 2em*/
 }
 
+longhorn {
+    color: #BF5700;
+}
+
 ul li, ol li {
     font-size: 1.0em;
     line-height: 1.8em;
@@ -703,4 +707,4 @@ section {
     footer p {
     text-align: center;
     }
-
+}
